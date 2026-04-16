@@ -1,14 +1,12 @@
 # mdouke
 
 こんにちは。道家昌希です。
-東京都立大学大学院のインタフェースデザインスタジオに所属し、LLMを用いたインタラクションの研究・開発に取り組んでいます。
+LLMを用いたインタラクションの研究・開発に取り組んでいます。
 
 ## About Me
 
-- `住んでいる場所`: 東京都
 - `所属`: 東京都立大学大学院システムデザイン研究科インダストリアルアート学域インタフェースデザインスタジオ
 - `興味関心`: AIを日常生活にどう実装できるかをテーマに、生成AIやUXデザインを学んでいます。
-- `いま取り組んでいること`: 学部時代の卒業研究である「盤面画像解析と大規模言語モデルを用いたリアルタイムオセロ実況」に、大学院でも継続して取り組んでいます。
 - `ひとこと`: 次の未来をデザインする
 
 ## Now
@@ -30,11 +28,11 @@
 
 ### Frameworks / Libraries
 
-`OpenCV` `NumPy` `Pillow` `Tkinter` `python-dotenv` `OpenAI Python SDK` `Google Generative AI SDK` `Ollama Python client` `pytest`
+`OpenCV` `Tkinter` `OpenAI Python SDK` `Google Generative AI SDK` `Ollama Python client` 
 
 ### Tools / Platforms
 
-`Ollama` `OpenAI API` `Gemini API` `USBカメラ入力環境` `macOS（検証環境）` `Git` `GitHub`
+`Ollama` `OpenAI API` `Gemini API` `Git` `GitHub`
 
 ## Works
 
